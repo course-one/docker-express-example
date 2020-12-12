@@ -1,0 +1,21 @@
+{
+  "name": "docker-express-example",
+  "private": true,
+  "scripts": {
+    "start": "SERVER_PORT=3000 node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/course-one/docker-express-example.git"
+  },
+  "keywords": [],
+  "author": "Uday Hiwarale <thatisuday@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/course-one/docker-express-example/issues"
+  },
+  "homepage": "https://github.com/course-one/docker-express-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

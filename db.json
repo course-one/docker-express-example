@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ross Geller",
+    "username": "ross",
+    "image": "/images/male.png"
+  },
+  {
+    "id": 2,
+    "name": "Monica Geller",
+    "username": "monica",
+    "image": "/images/female.png"
+  },
+  {
+    "id": 3,
+    "name": "Jack Geller",
+    "username": "jack",
+    "image": "/images/male.png"
+  }
+]
